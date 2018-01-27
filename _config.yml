@@ -17,7 +17,7 @@ title: ChickTech Favorite Foods
 email: bihan.zh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   What are some of ChickTechRDU's favorite foods?
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ChickTechRDU.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: werwty
 github_username:  werwty
